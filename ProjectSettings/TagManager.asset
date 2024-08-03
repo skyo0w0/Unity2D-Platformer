@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ReverseEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Bullet
+  - Water
+  - UI
+  - Ground
+  - Hittable
+  - Destructibles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 981316393
+    locked: 0
+  - name: Water
+    uniqueID: 3737304085
+    locked: 0
+  - name: Ground
+    uniqueID: 2932906251
+    locked: 0
+  - name: Object
+    uniqueID: 949627371
+    locked: 0
+  - name: Trees
+    uniqueID: 609672377
+    locked: 0
+  - name: Charecter
+    uniqueID: 3985765773
+    locked: 0
+  - name: FrontObjects
+    uniqueID: 2772541311
+    locked: 0
+  - name: Grass
+    uniqueID: 467646725
+    locked: 0
+  - name: UI
+    uniqueID: 796070285
+    locked: 0
